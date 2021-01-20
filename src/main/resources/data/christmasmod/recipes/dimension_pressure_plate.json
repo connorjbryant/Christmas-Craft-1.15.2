@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "christmasmod:dimension_planks"
+    },
+
+    {
+      "item": "christmasmod:dimension_planks"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "christmasmod:dimension_pressure_plate",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:snow_block"
+    },
+
+    {
+      "item": "minecraft:gravel"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "christmasmod:snowfall_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CCC",
+        "CCC",
+        " S "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:sugar"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    
+   
+    "result":
+    {
+        "item": "christmasmod:candy",
+        "count": 16
+    }
+}

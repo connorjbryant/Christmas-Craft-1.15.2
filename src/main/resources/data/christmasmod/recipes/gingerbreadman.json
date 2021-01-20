@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "#C#",
+        "#C#",
+        "#C#"
+    ],
+   
+    "key":
+    {
+        "#": {
+            "item": "minecraft:wheat"
+        },
+        
+        "C": {
+            "item": "minecraft:cocoa_beans"
+        }
+    },
+    
+    
+   
+    "result":
+    {
+        "item": "christmasmod:gingerbreadman",
+        "count": 16
+    }
+}

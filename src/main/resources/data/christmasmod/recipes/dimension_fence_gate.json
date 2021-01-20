@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "S/S",
+        "S/S"
+    ],
+   
+    "key":
+    {
+	"/": {
+            "item": "minecraft:stick"
+        },
+
+        "S":
+        {
+            "item": "christmasmod:dimension_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:dimension_fence_gate",
+        "count": 1
+    }
+}

@@ -1,0 +1,14 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "christmasmod:dimension_log"
+        }
+    ],
+
+    "result": 
+    {
+        "item": "christmasmod:dimension_planks",
+        "count": 4
+    }
+}

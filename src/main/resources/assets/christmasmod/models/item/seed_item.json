@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "christmasmod:items/part0",
+		"layer1": "christmasmod:items/part1"
+	}
+}

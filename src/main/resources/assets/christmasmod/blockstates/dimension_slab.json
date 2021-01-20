@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "christmasmod:block/dimension_slab" },
+        "type=top": { "model": "christmasmod:block/dimension_slab_top" },
+        "type=double": { "model": "christmasmod:block/dimension_planks" }
+    }
+}

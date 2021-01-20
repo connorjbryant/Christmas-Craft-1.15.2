@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "###",
+        "SES",
+        "BBB"
+    ],
+   
+    "key":
+    {
+        "#": {
+            "item": "minecraft:milk_bucket"
+        },
+        
+         "S": {
+            "item": "minecraft:sugar"
+        },
+
+	"E": {
+            "item": "minecraft:egg"
+        },
+
+	"B": {
+            "item": "minecraft:sweet_berries"
+        }
+    },
+    
+    
+   
+    "result":
+    {
+        "item": "christmasmod:fruitcake",
+        "count": 16
+    }
+}

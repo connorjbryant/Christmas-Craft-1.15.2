@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "S S",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "christmasmod:candy"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:seed_item",
+        "count": 1
+    }
+}

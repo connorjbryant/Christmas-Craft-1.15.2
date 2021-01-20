@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "christmasmod:gift_block"
+    },
+
+    {
+      "item": "christmasmod:christmas_spirit"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "christmasmod:example_spawn_egg",
+        "count": 1
+    }
+}

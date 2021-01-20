@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "christmasmod:candy_planks"
+    },
+
+    {
+      "item": "christmasmod:candy_planks"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "christmasmod:candy_pressure_plate",
+        "count": 1
+    }
+}

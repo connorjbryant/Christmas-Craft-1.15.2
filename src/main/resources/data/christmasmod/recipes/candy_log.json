@@ -1,0 +1,14 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "christmasmod:candy_log"
+        }
+    ],
+
+    "result": 
+    {
+        "item": "christmasmod:candy_planks",
+        "count": 4
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "christmasmod:block/dimension_log" },
+        "axis=z":   { "model": "christmasmod:block/dimension_log", "x": 90 },
+        "axis=x":   { "model": "christmasmod:block/dimension_log", "x": 90, "y": 90 }
+    }
+}

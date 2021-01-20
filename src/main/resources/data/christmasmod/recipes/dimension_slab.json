@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "SSS",
+        "   "
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "christmasmod:dimension_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:dimension_slab",
+        "count": 6
+    }
+}

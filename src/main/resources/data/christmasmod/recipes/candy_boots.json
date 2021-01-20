@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "A A",
+        "A A"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "christmasmod:candy"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:candy_boots",
+        "count": 1
+    }
+}

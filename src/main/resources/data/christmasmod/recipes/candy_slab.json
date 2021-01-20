@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "SSS",
+        "   "
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "christmasmod:candy_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:candy_slab",
+        "count": 6
+    }
+}

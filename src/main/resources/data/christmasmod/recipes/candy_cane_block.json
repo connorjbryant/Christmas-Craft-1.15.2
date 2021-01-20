@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GGG",
+        "G  ",
+        "G  "
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "christmasmod:candycane"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:candy_cane_block",
+        "count": 1
+    }
+}

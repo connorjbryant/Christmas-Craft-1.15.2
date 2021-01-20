@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "R R",
+        "RRR",
+        "###"
+    ],
+   
+    "key":
+    {
+        "#": {
+            "item": "minecraft:white_wool"
+        },
+
+	"R": {
+            "item": "minecraft:red_wool"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:candy_cane_chestplate",
+        "count": 1
+    }
+}

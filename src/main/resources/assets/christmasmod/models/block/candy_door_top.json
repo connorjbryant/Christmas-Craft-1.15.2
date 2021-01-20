@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "christmasmod:blocks/candy_door_bottom",
+        "top": "christmasmod:blocks/candy_door_top"
+    }
+}

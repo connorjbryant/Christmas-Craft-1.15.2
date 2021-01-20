@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SS ",
+        "SS ",
+        "SS "
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "christmasmod:licorice_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:licorice_door",
+        "count": 1
+    }
+}

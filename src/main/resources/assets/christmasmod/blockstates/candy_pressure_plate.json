@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "christmasmod:block/candy_pressure_plate" },
+        "powered=true": { "model": "christmasmod:block/candy_pressure_plate_down" }
+    }
+}

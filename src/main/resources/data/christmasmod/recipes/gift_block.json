@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "SSS",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:white_wool"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:gift_block",
+        "count": 1
+    }
+}

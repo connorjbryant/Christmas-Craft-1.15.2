@@ -1,0 +1,51 @@
+modLoader="javafml" 
+
+loaderVersion="[30,)" 
+
+issueTrackerURL="http://connorjbryant.com/" 
+
+[[mods]] 
+
+modId="christmasmod" 
+
+version="1.0" 
+
+displayName="Christmas Craft" 
+
+updateJSONURL="http://connorjbryant.com/" 
+
+displayURL="http://connorjbryant.com/"
+
+logoFile="christmasmod.png"
+
+credits="Connor Bryant" #optional
+
+authors="Connor Bryant"
+
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+This is a Christmas mod for Minecraft version 1.15.2
+'''
+
+
+
+
+
+[[dependencies.christmasmod]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[30,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+    
+[[dependencies.christmasmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

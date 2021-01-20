@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "christmasmod:block/candy_slab" },
+        "type=top": { "model": "christmasmod:block/candy_slab_top" },
+        "type=double": { "model": "christmasmod:block/candy_planks" }
+    }
+}

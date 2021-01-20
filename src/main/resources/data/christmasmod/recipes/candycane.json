@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GGG",
+        "G  ",
+        "G  "
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:sugar"
+        }
+    },
+   
+    "result":
+    {
+        "item": "christmasmod:candycane",
+        "count": 16
+    }
+}

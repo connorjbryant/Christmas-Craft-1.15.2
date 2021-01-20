@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "christmasmod:blocks/candycane_crop_stage2"
+    }
+}

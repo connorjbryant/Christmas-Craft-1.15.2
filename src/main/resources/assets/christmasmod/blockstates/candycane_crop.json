@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "christmasmod:block/candycane_crop0" },
+        "age=1": { "model": "christmasmod:block/candycane_crop1" },
+        "age=2": { "model": "christmasmod:block/candycane_crop2" },
+        "age=3": { "model": "christmasmod:block/candycane_crop3" },
+        "age=4": { "model": "christmasmod:block/candycane_crop4" },
+        "age=5": { "model": "christmasmod:block/candycane_crop5" },
+        "age=6": { "model": "christmasmod:block/candycane_crop6" },
+        "age=7": { "model": "christmasmod:block/candycane_crop7" }
+    }
+}

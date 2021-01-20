@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CCC",
+        " S ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "christmasmod:candy"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    
+   
+    "result":
+    {
+        "item": "christmasmod:candy_pickaxe",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "christmasmod:blocks/dimension_planks",
+        "top": "christmasmod:blocks/dimension_planks",
+        "side": "christmasmod:blocks/dimension_planks"
+    }
+}

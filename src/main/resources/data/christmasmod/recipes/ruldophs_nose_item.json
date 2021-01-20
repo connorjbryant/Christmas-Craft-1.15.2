@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+
+    {
+      "item": "minecraft:redstone"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "christmasmod:ruldophs_nose_item",
+        "count": 1
+    }
+}

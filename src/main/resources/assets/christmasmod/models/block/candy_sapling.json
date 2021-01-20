@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "christmasmod:blocks/candy_sapling"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "christmasmod:blocks/licorice_door_bottom",
+        "top": "christmasmod:blocks/licorice_door_top"
+    }
+}
